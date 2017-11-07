@@ -27,6 +27,7 @@ class Song {
         Song(name: "Everybody Loves A Lover", artist: "Doris Day"),
         Song(name: "That's How Much I Love You", artist: "Pat Boone"),
         Song(name: "For Your Love", artist: "Ed Townsend"),
+        /*
         Song(name: "Win Your Love For Me", artist: "Sam Cooke"),
         Song(name: "To Be Loved", artist: "Jackie Wilson"),
         Song(name: "Down The Aisle Of Love", artist: "The Quin-Tones"),
@@ -2460,6 +2461,7 @@ class Song {
         Song(name: "Love Me", artist: "The 1975"),
         Song(name: "Can't Sleep Love", artist: "Pentatonix"),
         Song(name: "Used To Love You Sober", artist: "Kane Brown"),
+         */
         Song(name: "Used To Love You", artist: "Gwen Stefani"),
         Song(name: "I Love This Life", artist: "LoCash"),
         Song(name: "Love Yourself", artist: "Justin Bieber"),
